@@ -1,0 +1,20 @@
+@charset "UTF8";
+
+@media screen and (max-width: 425px) {
+    div.container {
+          width: 90%;
+    }
+    
+    h1, .input label {
+        font-size: 1rem;
+    }
+    
+   div.container .result {
+    width: 90%;
+   }
+  
+}
+
+
+
+
